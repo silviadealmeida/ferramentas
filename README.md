@@ -28,3 +28,25 @@ Lista de ferramentas e aplicações para tratamento, manipulação e conversão 
 ## Animacao
 
 [Programas de Animacao](https://github.com/silviadealmeida/ferramentas/tree/main/animacao)
+
+
+## Outras Listas
+
+[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
+[awesome-wikipedia](https://github.com/emijrp/awesome-wikipedia)
+[Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools)
+[awesome-images](https://github.com/heyalexej/awesome-images)
+[awesome-svg](https://github.com/willianjusten/awesome-svg)
+[awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)
+[awesome-datascience](https://github.com/academic/awesome-datascience)
+[The definitive list of lists](https://github.com/jnv/lists)
+
+
+
+
+
+
+
+
+
+
