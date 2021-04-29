@@ -1,6 +1,6 @@
 # Ferramentas de Design
 
-Lista de ferramentas e aplicações para tratamento, manipulação e conversão de imagens raster e vectorial
+Lista de ferramentas e aplicações para tratamento, manipulação e conversão de imagens raster e vectorial, graficos de dados, fonts, aplicacoes de produtividade, conversores, video, animacao e design.
 
 ## Imagem
 
