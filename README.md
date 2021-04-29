@@ -1,38 +1,30 @@
-# ferramentas
-Lista de ferramentas online e offline, aplicações, programas, e dicas uteis.
-
 # Ferramentas de Design
 
 Lista de ferramentas e aplicações para tratamento, manipulação e conversão de imagens raster e vectorial
 
-## Raster
+## Imagem
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
-## Vector
-
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-
-## Animação
+[Programas de Imagem](https://github.com/silviadealmeida/ferramentas/tree/main/Imagem)
 
 ## Fonts
 
+[Fonts e programas](https://github.com/silviadealmeida/ferramentas/tree/main/Fonts)
+
+## Dados e Graficos
+
+[Aplicações de Imagem](https://github.com/silviadealmeida/ferramentas/tree/main/Graficos)
 
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## Video
 
-Please make sure to update tests as appropriate.
+[Aplicações de Imagem](https://github.com/silviadealmeida/ferramentas/tree/main/Video)
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+
+## Variados
+
+[Programas uteis varios](https://github.com/silviadealmeida/ferramentas/tree/main/Misc)
+
+
+## Animacao
+
+[Programas de animacao](https://github.com/silviadealmeida/ferramentas/tree/main/animacao)
