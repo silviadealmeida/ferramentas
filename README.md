@@ -32,14 +32,14 @@ Lista de ferramentas e aplicações para tratamento, manipulação e conversão 
 
 ## Outras Listas
 
-[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
-[awesome-wikipedia](https://github.com/emijrp/awesome-wikipedia)
-[Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools)
-[awesome-images](https://github.com/heyalexej/awesome-images)
-[awesome-svg](https://github.com/willianjusten/awesome-svg)
-[awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)
-[awesome-datascience](https://github.com/academic/awesome-datascience)
-[The definitive list of lists](https://github.com/jnv/lists)
+* [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
+* [awesome-wikipedia](https://github.com/emijrp/awesome-wikipedia)
+* [Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools)
+* [awesome-images](https://github.com/heyalexej/awesome-images)
+* [awesome-svg](https://github.com/willianjusten/awesome-svg)
+* [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)
+* [awesome-datascience](https://github.com/academic/awesome-datascience)
+* [The definitive list of lists](https://github.com/jnv/lists)
 
 
 
