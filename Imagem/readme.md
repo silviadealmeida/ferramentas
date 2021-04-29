@@ -21,4 +21,9 @@ https://opentoonz.github.io/e/index.html Software for the production of 2D anima
 
 https://www.photopea.com/ Online image editor
 https://www.vectorizer.io/ Convert raster images like PNGs, BMPs and JPEGs to scalable vector graphics (SVG, EPS, DXF)
-https://editor.method.ac/ 
+https://editor.method.ac/ Method Draw is an open source SVG editor for the web, you can use it online without signing up.
+
+
+https://waifu2x.booru.pics/  Double the size of your images! No pixelization, no blurriness
+http://waifu2x.udp.jp/  Single-Image Super-Resolution for Anime-Style Art using Deep Convolutional Neural Networks. And it supports photo.
+
