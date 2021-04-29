@@ -8,7 +8,7 @@ Lista de ferramentas e aplicações para tratamento, manipulação e conversão 
 
 ## Fonts
 
-[Fonts e programas](https://github.com/silviadealmeida/ferramentas/tree/main/Fonts)
+[Fonts e Programas](https://github.com/silviadealmeida/ferramentas/tree/main/Fonts)
 
 ## Dados e Graficos
 
@@ -17,14 +17,14 @@ Lista de ferramentas e aplicações para tratamento, manipulação e conversão 
 
 ## Video
 
-[Aplicações de Imagem](https://github.com/silviadealmeida/ferramentas/tree/main/Video)
+[Aplicações de Video](https://github.com/silviadealmeida/ferramentas/tree/main/Video)
 
 
 ## Variados
 
-[Programas uteis varios](https://github.com/silviadealmeida/ferramentas/tree/main/Misc)
+[Programas Uteis Varios](https://github.com/silviadealmeida/ferramentas/tree/main/Misc)
 
 
 ## Animacao
 
-[Programas de animacao](https://github.com/silviadealmeida/ferramentas/tree/main/animacao)
+[Programas de Animacao](https://github.com/silviadealmeida/ferramentas/tree/main/animacao)
