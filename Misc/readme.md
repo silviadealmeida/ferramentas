@@ -5,4 +5,5 @@
 * https://freshcode.club/ Open source software release tracking.
 * https://new.edmodo.com/ Edmodo is a global education network that helps connect all learners with the people and resources needed to reach their full potential.
 * https://readme.so/  The easiest way to create aREADME
+* https://miro.com  The online collaborative whiteboard platform to bring teams together, anytime, anywhere.
 
