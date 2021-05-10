@@ -17,4 +17,4 @@
  * https://waifu2x.booru.pics/  Double the size of your images! No pixelization, no blurriness
  * http://waifu2x.udp.jp/  Single-Image Super-Resolution for Art using Deep Convolutional Neural Networks. And it supports photo.
 
- * https://www.onlineocr.net/ Optical Character Recognition software online. Service supports 46 languages
+ * https://www.newocr.com/  free online OCR (Optical Character Recognition) can analyze the text in any image file that you upload, and convert into editable text.
