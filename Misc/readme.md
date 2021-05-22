@@ -12,4 +12,6 @@
 * https://mind42.com/  Mind42 is a free online mind mapping software. In short: Mind42 offers you a software that runs in your browser to create mind maps - a special form of a structured diagram to visually organize information. 
 * https://www.ucl.ac.uk/learning-designer/guide/ The Learning Designer helps teachers and lecturers design teaching and learning activities using the six learning types from the Conversational Framework. The Learning Designer was developed by a team led by Diana Laurillard at the UCL Knowledge Lab and is free for anyone to use.
 * https://pxhere.com/ On Pxhere you may find and share images free of copyrights. All pictures are released under Creative Commons CC0 into the public domain.
+* https://www.opendrive.com/ Unlimited Cloud Storage, Hosting, Backup & Cloud Content Management
+* https://yt1s.com/en5 YT1s YouTube Downloader helps you save Youtube videos to your device. You can choose from a variety of formats and qualities to download.
 
