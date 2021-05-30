@@ -14,4 +14,5 @@
 * https://pxhere.com/ On Pxhere you may find and share images free of copyrights. All pictures are released under Creative Commons CC0 into the public domain.
 * https://www.opendrive.com/ Unlimited Cloud Storage, Hosting, Backup & Cloud Content Management
 * https://yt1s.com/en5 YT1s YouTube Downloader helps you save Youtube videos to your device. You can choose from a variety of formats and qualities to download.
+* https://www.wisemapping.com/ WiseMapping is perfect for individual note-taking, collaborative planning, teamwork and class rooms.
 
