@@ -12,7 +12,7 @@ Lista de ferramentas e aplicações para tratamento, manipulação e conversão 
 
 ## Dados e Graficos
 
-[Aplicações de Imagem](https://github.com/silviadealmeida/ferramentas/tree/main/Graficos)
+[Aplicações de Dados](https://github.com/silviadealmeida/ferramentas/tree/main/Graficos)
 
 
 ## Video
