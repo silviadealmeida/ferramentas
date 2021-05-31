@@ -1,6 +1,6 @@
-# Ferramentas de Design
+# Ferramentas Aplicações e Paginas Web
 
-Lista de ferramentas e aplicações para tratamento, manipulação e conversão de imagens raster e vectorial, graficos de dados, fonts, aplicacoes de produtividade, conversores, video, animacao e design.
+Lista de ferramentas e aplicações para tratamento, manipulação e conversão de imagens raster e vectorial, graficos de dados, fontes, aplicações de produtividade, conversores, video, audio, animaçao e design.
 
 ## Imagem
 
