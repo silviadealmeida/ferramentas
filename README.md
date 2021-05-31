@@ -20,6 +20,11 @@ Lista de ferramentas e aplicações para tratamento, manipulação e conversão 
 [Aplicações de Video](https://github.com/silviadealmeida/ferramentas/tree/main/Video)
 
 
+## Audio
+
+[Aplicações de Audio](https://github.com/silviadealmeida/ferramentas/tree/main/Audio)
+
+
 ## Variados
 
 [Programas Uteis Varios](https://github.com/silviadealmeida/ferramentas/tree/main/Misc)
