@@ -1,3 +1,4 @@
+
 # Ferramentas Aplicações e Paginas Web
 
 Lista de ferramentas e aplicações para tratamento, manipulação e conversão de imagens raster e vectorial, graficos de dados, fontes, aplicações de produtividade, conversores, video, audio, animaçao e design.
@@ -12,7 +13,7 @@ Lista de ferramentas e aplicações para tratamento, manipulação e conversão 
 
 ## Dados e Graficos
 
-[Aplicações de Dados](https://github.com/silviadealmeida/ferramentas/tree/main/Graficos)
+[Aplicações de Imagem](https://github.com/silviadealmeida/ferramentas/tree/main/Graficos)
 
 
 ## Video
@@ -34,6 +35,10 @@ Lista de ferramentas e aplicações para tratamento, manipulação e conversão 
 
 [Programas de Animacao](https://github.com/silviadealmeida/ferramentas/tree/main/animacao)
 
+## Motores de Busca
+
+[Motores de Busca](https://github.com/silviadealmeida/ferramentas/tree/main/Motores%20de%20Busca)
+
 
 ## Outras Listas
 
@@ -45,6 +50,9 @@ Lista de ferramentas e aplicações para tratamento, manipulação e conversão 
 * [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)
 * [awesome-datascience](https://github.com/academic/awesome-datascience)
 * [The definitive list of lists](https://github.com/jnv/lists)
+
+
+
 
 
 
